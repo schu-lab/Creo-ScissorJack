@@ -1,6 +1,8 @@
 # Creo-ScissorJack
 Utilized PTC Creo 7.0 Standard - Student Edition to create the 3D models with parametric data and drawings. Obtained common hardware from external vendors for 3D model (e.g. mounting hardware, fasteners, etc.)</br>
 
+Utilized Master Skeleton as Assembly Design Framework for Scissor Jack
+
 See Final Assembly pdf: TBD </br>
 
 <p align="center">
