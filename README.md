@@ -6,3 +6,7 @@ See Final Assembly pdf: TBD </br>
 <p align="center">
   <img src=https://github.com/schu-lab/Creo-ScissorJack/blob/main/1.PNG?raw=true alt="animated" height="400" /></br>
 </p>
+
+<p align="center">
+  <img src=https://github.com/schu-lab/Creo-ScissorJack/blob/main/2.PNG?raw=true alt="animated" height="400" /></br>
+</p>
