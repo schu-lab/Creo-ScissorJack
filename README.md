@@ -3,6 +3,8 @@ Utilized PTC Creo 7.0 Standard - Student Edition to create the 3D models with pa
 
 Utilized Master Skeleton as Assembly Design Framework for Scissor Jack; Utilized Mechanism Design Kinematics and Motion to model a range of motion to study the behavior of the design.
 
+See clip of Kinematic Analysis and Playback: https://github.com/schu-lab/Creo-ScissorJack/blob/main/Untitled%20(2).mp4
+
 See Final Assembly pdf: TBD </br>
 
 <p align="center">
